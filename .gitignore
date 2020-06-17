@@ -1,5 +1,7 @@
-./*
-!./i3/*
-!./polybar/*
-!./rofi/*
-!./compton/*
+*
+!i3/*
+!polybar/*
+!rofi/*
+!compton/*
+!.gitignore
+!README.md
