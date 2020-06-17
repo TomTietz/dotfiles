@@ -1,0 +1,5 @@
+./*
+!./i3/*
+!./polybar/*
+!./rofi/*
+!./compton/*
